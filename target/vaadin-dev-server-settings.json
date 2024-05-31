@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/home/federico/cosa/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/home/federico/cosa/./frontend/generated/jar-resources",
+  "staticOutput": "/home/federico/cosa/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/home/federico/cosa/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/home/federico/cosa/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/home/federico/cosa/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "/home/federico/cosa/target/dev-bundle/config",
+  "jarResourcesFolder": "/home/federico/cosa/./frontend/generated/jar-resources",
+  "themeName": "cosa",
+  "clientServiceWorkerSource": "/home/federico/cosa/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
